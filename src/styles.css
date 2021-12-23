@@ -3,8 +3,6 @@
 }
 
 body {
-  display: flex;
-  justify-content: center;
   font-family: Arial;
   font-weight: 300;
 }
