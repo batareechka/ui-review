@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2879.85 1439.92">
+  <defs/>
+  <defs>
+    <linearGradient id="a" x2="2879.85" y1="719.96" y2="719.96" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#362cc8"/>
+      <stop offset="1" stop-color="#2c26ac"/>
+    </linearGradient>
+    <linearGradient id="b" x1="712.98" x2="2150.02" y1="719.96" y2="719.96" gradientTransform="rotate(45 1439.92 719.96)" xlink:href="#a"/>
+    <linearGradient id="c" x1="1439.92" x2="2879.85" y1="359.98" y2="359.98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#342abf"/>
+      <stop offset=".96" stop-color="#2c26ac"/>
+      <stop offset="1" stop-color="#352cc6"/>
+    </linearGradient>
+    <linearGradient id="d" x1="1439.92" x2="2879.85" y1="1079.94" y2="1079.94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#272494"/>
+      <stop offset="1" stop-color="#352cc6"/>
+    </linearGradient>
+    <linearGradient id="e" x2="1439.92" y1="359.98" y2="359.98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#272495"/>
+      <stop offset="1" stop-color="#322abf"/>
+    </linearGradient>
+    <linearGradient id="f" x2="1439.92" y1="1079.94" y2="1079.94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#352bc4"/>
+      <stop offset="1" stop-color="#2c26ac"/>
+    </linearGradient>
+    <linearGradient id="g" x1="2159.89" x2="3584.29" y1="359.98" y2="359.98" xlink:href="#a"/>
+    <linearGradient id="h" x1="-719.96" x2="704.45" y1="1079.94" y2="1079.94" xlink:href="#a"/>
+    <linearGradient id="i" x1="2159.89" x2="3584.29" y1="1079.94" y2="1079.94" xlink:href="#a"/>
+    <linearGradient id="j" x1="-719.96" x2="704.45" y1="359.98" y2="359.98" xlink:href="#a"/>
+  </defs>
+  <g data-name="Layer 2">
+    <g data-name="Layer 1">
+      <path fill="url(#a)" d="M0 0h2879.85v1439.92H0z"/>
+      <path fill="url(#b)" d="M930.83 210.87h1018.18v1018.18H930.83z" transform="rotate(-45 1439.92 719.97)"/>
+      <path fill="url(#c)" d="M2159.89 0h-719.97l719.97 719.96h719.96L2159.89 0z"/>
+      <path fill="url(#d)" d="M2159.89 1439.92h-719.97l719.97-719.96h719.96l-719.96 719.96z"/>
+      <path fill="url(#e)" d="M719.96 719.96H0L719.96 0h719.96L719.96 719.96z"/>
+      <path fill="url(#f)" d="M719.96 719.96H0l719.96 719.96h719.96L719.96 719.96z"/>
+      <path fill="url(#g)" d="M2159.89 0l719.96 719.96V0h-719.96z"/>
+      <path fill="url(#h)" d="M719.96 1439.92L0 719.96v719.96h719.96z"/>
+      <path fill="url(#i)" d="M2879.85 1439.92V719.96l-719.96 719.96h719.96z"/>
+      <path fill="url(#j)" d="M0 0v719.96L719.96 0H0z"/>
+    </g>
+  </g>
+</svg>
